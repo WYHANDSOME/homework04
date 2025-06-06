@@ -101,5 +101,12 @@ iters = 10
 | ------ | ---------------------------- |
 | 8/255  | `adv_examples_eps_8.png`     |
 | 准确率图   | `whitebox_accuracy_plot.png` |
+### 📈 白盒攻击准确率变化图
+
+![Accuracy vs Epsilon](images/whitebox_accuracy_plot.png)
+
+### 🎯 ε = 8/255 的对抗样本示例
+
+![Adversarial Examples](images/adv_examples_eps_8.png)
 
 ---
