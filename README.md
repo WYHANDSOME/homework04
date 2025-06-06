@@ -95,13 +95,6 @@ iters = 10
 
 ---
 
-## 🔍 参考资料
-
-* [Kurakin et al., 2017: Adversarial Examples in the Physical World](https://arxiv.org/abs/1607.02533)
-* [kuangliu/pytorch-cifar](https://github.com/kuangliu/pytorch-cifar)
-
----
-
 ## 📷 示例图预览（部分）
 
 | 对抗扰动 ε | 白盒攻击示例图（自动保存）                |
