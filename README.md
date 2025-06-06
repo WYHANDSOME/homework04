@@ -107,6 +107,6 @@ iters = 10
 
 ### 🎯 ε = 8/255 的对抗样本示例
 
-![Adversarial Examples](images/adv_examples_eps_8.png)
+![Adversarial Examples](https://github.com/WYHANDSOME/homework04/blob/main/eps%20examples/adv_examples_eps_8.png)
 
 ---
