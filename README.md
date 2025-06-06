@@ -29,10 +29,6 @@
 pip install torch torchvision matplotlib
 ````
 
-确保你拥有 `models/resnet.py` 文件，可从 [kuangliu/pytorch-cifar](https://github.com/kuangliu/pytorch-cifar) 获取。
-
----
-
 ## 🔧 模型训练
 
 ### ✅ 训练 ResNet-20（目标模型）
